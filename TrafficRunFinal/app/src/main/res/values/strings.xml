@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Traffic Run Final</string>
+    <string name="title_activity_direction__route">Map</string>
+</resources>
