@@ -9,9 +9,9 @@ LOW = 3
 GO = 0#use diff pin no
 #expected object definition obtained
 class information:
-    status
-    priority
-    distance
+    status=0
+    priority=0
+    distance=0
     
     def writestatus( value ):
         status = value
